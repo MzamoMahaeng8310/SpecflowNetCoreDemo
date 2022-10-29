@@ -8,7 +8,7 @@ namespace SpecflowNetCoreDemo.Steps
     [Binding]
     class HomeSteps
     {
-
+        //steps  here
 
     }
 }
